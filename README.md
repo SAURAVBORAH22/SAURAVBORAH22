@@ -27,9 +27,10 @@
   - Medium : https://medium.com/cse-association-srm/covid-19-pandemic-in-india-80cff1056923
   
 ## 🤗What I do in my free time
-  - Love to explore different sides of myself.
-  - Pushing myself.
-  - Love clicking play video games and binge watch
+  - Read a book.
+  - Spend time with friends.
+  - Watch mock interviews.
+  - Watch web series and play pc games.
   
 ## 📧How to Reach me
   Drop me a mail at sauravborah1999@gmail.com

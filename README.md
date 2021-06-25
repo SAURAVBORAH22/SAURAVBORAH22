@@ -35,7 +35,8 @@
 ## 📧How to Reach me
   Drop me a mail at sauravborah1999@gmail.com
   
+  ***
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SAURAVBORAH22&show_icons=true&locale=en&layout=compact" alt="SAURAVBORAH22" /></p>
   <span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SAURAVBORAH22&show_icons=true&locale=en" alt="SAURAVBORAH22" /></span>
 
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SAURAVBORAH22&" alt="SAURAVBORAH22" /></div>
+  <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SAURAVBORAH22&" alt="SAURAVBORAH22" /></div>

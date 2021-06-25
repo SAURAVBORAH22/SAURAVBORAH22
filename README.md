@@ -23,7 +23,7 @@
   - Hackerearth : https://www.hackerearth.com/@saurav1024
   - Codechef : https://www.codechef.com/users/sauravborah
   - Codeforces: https://codeforces.com/profile/SAURAVBORAH 
-  - Linkedin : https://www.linkedin.com/in/bikrant-sen-a0010a173/
+  - Linkedin :https://www.linkedin.com/in/saurav-borah-a7751818b/
   - Medium : https://medium.com/cse-association-srm/covid-19-pandemic-in-india-80cff1056923
   
 ## 🤗What I do in my free time

@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi , I'm Saurav Borah 👋
 
 ## About me
   Hey, I am a pre-final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at SRM Institute of Science and Technology(SRMIST), Kattankulathur.

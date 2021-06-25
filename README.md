@@ -32,4 +32,4 @@
   - Love clicking play video games and binge watch
   
 ## 📧How to Reach me
-  Drop me a mail at bikrant.sen@gmail.com
+  Drop me a mail at sauravborah1999@gmail.com

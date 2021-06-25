@@ -3,17 +3,27 @@
 ## About me
   Hey, I am a pre-final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at SRM Institute of Science and Technology(SRMIST), Kattankulathur.
   
-  I have a passion for Data Science and Machine Learning with a keen interest in new technologies and enjoy working in a systematic and planned way.
+  I have been able to deliver a consistent approach throughout a challenging period of development.
+  I am extremely driven, with a clear goal to succeed.
   
 ## 📈Currently working on
+  - Full Stack Development Projects 
+  - UX/UI Designing Projecs
   - Problem Solving
-  - Data Science Projects
 
-##🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☘Currently learing
+  - Node js
+  - Automatic Speech Recognition
+  - DSA
+  
+## 🤔Where else you can find me?
+  - Hackerrank : https://www.hackerrank.com/RA1811027010045
+  - Linkedin : https://www.linkedin.com/in/bikrant-sen-a0010a173/
+  
+## 🤗What I do in my free time
+  - Love to explore different sides of myself.
+  - Pushing myself.
+  - Love clicking play video games and binge watch
+  
+## 📧How to Reach me
+  Drop me a mail at bikrant.sen@gmail.com

@@ -1,10 +1,9 @@
 ### Hi 👋, I'm SAURAV BORAH
 ***
 - 🔭 I’m currently working on 
-***
-Full Stack Development
-Machine Learning 
-Deep Learning
+  -Full Stack Development
+  -Machine Learning 
+  -Deep Learning
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

@@ -13,12 +13,18 @@
 
 ## ☘Currently learing
   - Node js
-  - Automatic Speech Recognition
+  - Figma
   - DSA
+  - React
   
 ## 🤔Where else you can find me?
-  - Hackerrank : https://www.hackerrank.com/RA1811027010045
+  - Hackerrank : https://www.hackerrank.com/sauravborah1999
+  - Hackerrank : https://www.hackerrank.com/sb1259
+  - Hackerearth : https://www.hackerearth.com/@saurav1024
+  - Codechef : https://www.codechef.com/users/sauravborah
+  - Codeforces: https://codeforces.com/profile/SAURAVBORAH 
   - Linkedin : https://www.linkedin.com/in/bikrant-sen-a0010a173/
+  - Medium : https://medium.com/cse-association-srm/covid-19-pandemic-in-india-80cff1056923
   
 ## 🤗What I do in my free time
   - Love to explore different sides of myself.
